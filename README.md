@@ -6,3 +6,4 @@ The notebooks in this repository have been stripped of output cells using [mathe
 
 ## Table of Contents
 * [ch00](ch00) - [Chapter 0 Preface](https://www.youtube.com/watch?v=hsUaGVk_BUE&list=PLLb8QhyIGx7iyrkE2GnU8WXd-XFMAZL_T)
+* [ch01](ch01) - Chapter 1 Matrices, Vectors, and Vector Calculus ([rec01](https://www.youtube.com/watch?v=rl1g9EX7EgA)...)
